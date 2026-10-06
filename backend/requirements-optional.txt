@@ -1,0 +1,2 @@
+# Optional: enables pitch/monotone detection. App works without it.
+librosa
